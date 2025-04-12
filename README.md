@@ -1,7 +1,8 @@
 # HubKids
 
 
-![16](https://github.com/user-attachments/assets/25b954c7-fb33-4f66-ab4a-614d42fa5ce8)
+
+![16](https://github.com/user-attachments/assets/4d50a338-703f-4b31-904d-5dc6456c6b10)
 
 
 -🔗 [Demo Project]( https://helia-rz79.github.io/HubKids/)
